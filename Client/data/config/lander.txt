@@ -1,0 +1,13 @@
+
+"Lander parameters"
+
+gravity=0.02
+landerHeight=32
+landerWidth=32
+
+
+MaxSpeed= 0.9
+
+accLeft=0.01
+accRight=0.01
+accUp=0.05

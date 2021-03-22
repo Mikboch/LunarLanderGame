@@ -1,0 +1,34 @@
+
+port=9999
+ipAddress=localhost
+
+
+"Main window"
+mainWindowWidth=800
+mainWindowHeight=600
+
+"Game window"
+gameWindowWidth=1280
+gameWindowHeight=720
+
+"Help window"
+helpWindowWidth=730
+helpWindowHeight=600
+
+"Scoreboard Window"
+scoreboardWindowWidth=300
+scoreboardWindowHeight=400
+
+"Mode window"
+modeWindowWidth=500
+modeWindowHeight=600
+
+"Player name window"
+playerNameWindowWidth=280
+playerNameWindowHeight=190
+
+"Game"
+numBuffers=4
+fuelBonus=50
+
+

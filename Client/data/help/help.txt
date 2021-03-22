@@ -1,0 +1,19 @@
+Gracz kontroluje lądownik, powoli przyciągany przez siłę grawitacji, 
+a jego zadaniem jest odpowiednia nawigacja i użycie silników manewrowych, 
+by bezpiecznie wylądować w wyznaczonym punkcie na powierzchni planety. 
+
+Po udanym wylądowaniu przechodzimy, na kolejny etap. 
+Nieudane lądowanie oznacza zakończenie gry.
+
+Gracz uzyskuje punkty na każdym z poziomów, w momencie gdy pomyślnie wyląduje.
+Otrzymuje za to 500 punktów. Do tego doliczane są pozostałe, niewykorzystane jednostki paliwa. 
+Jeżeli użytkownik wylądował na mniejszym- trudniejszym lądowisku to jego
+punkty są dodatkowo wymnażane x3.
+
+Statkiem kieruje się za pomocą strzałek: 
+-górnej, 
+-lewej,
+-prawej. 
+Pauza gry znajduje się pod klawiszem-  <P> 
+Szybkie wyjście do menu głównego-  <ESC>
+Wyciszenie muzyki- <M>
