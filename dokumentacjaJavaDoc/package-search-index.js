@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Gui"},{"l":"PGame"},{"l":"PServer"}]
